@@ -1,0 +1,4 @@
+Arrays do not have any information about them (e.g. length). They are just
+a chunk of memory.
+
+

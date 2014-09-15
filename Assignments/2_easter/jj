@@ -1,0 +1,29 @@
+OmNotify is a simple yet powerful notification maker. Main features include the following:
+1) Scheduled (or queued) notifications
+2) Vibrating notifications (user can set vibration length and repeat period)
+3) Notifications with alarms (with custom song, volume, snooze time, etc)
+4) Notifications with reminders that pop up at scheduled times (this can be done via the scheduled notifications)
+5) The ability to edit all the above functionalities for each noti
+6) Simple SMS functionality
+7) Ability to send custom notifications to other OmNotify users. These notifications can include either vibration or alarm options, which will be recreated on the recipients phone. The option to receive such vibrations or alarms can be blocked in the settings.
+8) An archive of all past notifications
+
+OmNotify is extremely customizable. In the settings, you can:
+- Turn on/off almost all of the above features
+- Change the number of SMS messages in the SMS list
+- Edit the default alarm settings
+- Choose one of 14 themes to apply
+- Choose an icon color
+And more!
+
+Terminology
+What is a "Pinned Noti"?
+A pinned noti is a notification that is fixed in the notification tray. You cannot delete it by swiping it or clicking clear all. The only way to delete it is to touch the notification, and delete it on the page it takes you to.
+What is an "Expandable Noti"?
+An expandable noti is a notification that can be expanded by pulling down on it with two fingers. All notis created by OmNotify are expandable.
+What is a "Queued Noti" and a "Queued SMS"?
+A queued noti is simply a notification that is scheduled to be made at a certain time, whether or not the phone is asleep. If Queue Reminders are turned on in the settings, a reminder will pop up at the specified queue time. Queues can either be one shot or repeating.
+
+A queued SMS is the same thing, except instead of creating a noti, the phone will send an SMS at the time you specify.
+
+
